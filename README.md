@@ -25,5 +25,5 @@ I am a DevOps Specialist.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)]www.linkedin.com/in/bar-sagiv-5a890a328
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)]www.linkedin.com/in/bar-sagiv-5a890a328
 

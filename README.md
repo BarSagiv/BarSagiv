@@ -2,11 +2,10 @@
 
 ## About Me
 
-I am a DevOps Specialist. 
+ I'm a passionate tech enthusiast with a focus on DevOps, cloud computing, and automation. With expertise in AWS, Jenkins, Terraform, GitHub, Python, Kubernetes, Docker, and DevSecOps, I aim to create innovative and secure solutions that drive business success.
+I am also dedicated to continuous learning and building projects that integrate the latest technologies.
 
-- 🌱 I’m currently learning: Red Hat
-- 💬 Ask me about: CI/CD
-- 📫 How to reach me: barbor161@gmail.com
+ Feel free to check out my repositories, contribute, or reach out if you’re interested in collaborating!
 
 ## 🛠️ Technologies & Tools
 
@@ -15,14 +14,18 @@ I am a DevOps Specialist.
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
-## 📈 GitHub Stats
+## Latest Project: Serverless Data Processing Pipeline 
+I'm excited to share my latest project, a serverless data processing pipeline built on AWS.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BarSagiv&show_icons=true&hide_border=true&theme=radical)
+📜 Project Overview:
+This project demonstrates how to process and analyze data using AWS Lambda, S3, CloudWatch, and SNS in a fully serverless architecture. It’s designed to be highly scalable and cost-efficient for handling real-time data processing tasks. 
+Check out the repository for more details and code: ![Serverless Data Processing Pipeline](https://github.com/BarSagiv/AWS-Lambda-S3-Processing.git)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarSagiv&layout=compact&hide_border=true&theme=radical)
+
+
 
 
 ## 📫 Connect with Me
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)]www.linkedin.com/in/bar-sagiv-5a890a328
+![LinkedIn](www.linkedin.com/in/bar-sagiv-5a890a328)
 

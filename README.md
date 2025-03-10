@@ -1,31 +1,23 @@
-# Hello, I'm Bar Sagiv 👋
+<h1 align="center">Bar Sagiv - DevOps & Cloud Solutions Architect</h1>
 
 ## About Me
-
- I'm a passionate tech enthusiast with a focus on DevOps, cloud computing, and automation. With expertise in AWS, Jenkins, Terraform, GitHub, Python, Kubernetes, Docker, and DevSecOps, I aim to create innovative and secure solutions that drive business success.
-I am also dedicated to continuous learning and building projects that integrate the latest technologies.
-
- Feel free to check out my repositories, contribute, or reach out if you’re interested in collaborating!
-
-## 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-
-## Latest Project: Serverless Data Processing Pipeline 
-I'm excited to share my latest project, a serverless data processing pipeline built on AWS.
-
-📜 Project Overview:
-This project demonstrates how to process and analyze data using AWS Lambda, S3, CloudWatch, and SNS in a fully serverless architecture. It’s designed to be highly scalable and cost-efficient for handling real-time data processing tasks. 
-Check out the repository for more details and code: ![Serverless Data Processing Pipeline](https://github.com/BarSagiv/AWS-Lambda-S3-Processing.git)
+ AWS Certified Solutions Architect Associate with a strong passion for cloud computing, automation, and DevOps. I'm currently enrolled in the DevSecOps Program at Bar-Ilan University, gaining hands-on experience in cloud security, infrastructure as code (IaC), and CI/CD pipeline development.
+My expertise: 
+- AWS- VPC, IAM, EC2, S3, CloudWatch, Lambda
+- Serverless architecture & automation
+- IAM best practices & role-based access control (RBAC)
+- Linux system administration & shell scripting
+- Monitoring & logging (CloudWatch, SNS, Prometheus)
+- Bash, Python for automation
+- Terraform, CloudFormation
 
 
+📫 How to reach me: **barsagiv8@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bar-sagiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bar-sagiv" height="30" width="40" /></a>
+</p>
 
-
-## 📫 Connect with Me
-
-![LinkedIn](www.linkedin.com/in/bar-sagiv-5a890a328)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

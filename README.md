@@ -1,7 +1,8 @@
-<h1 align="center">Bar Sagiv - DevOps & Cloud Solutions Architect</h1>
+<h1 align="center">Bar Sagiv - DevOps & Cloud Solutions Architect ☁️</h1>
 
 ## About Me
  AWS Certified Solutions Architect Associate with a strong passion for cloud computing, automation, and DevOps. I'm currently enrolled in the DevSecOps Program at Bar-Ilan University, gaining hands-on experience in cloud security, infrastructure as code (IaC), and CI/CD pipeline development.
+
 My expertise: 
 - AWS- VPC, IAM, EC2, S3, CloudWatch, Lambda
 - Serverless architecture & automation
@@ -11,8 +12,15 @@ My expertise:
 - Bash, Python for automation
 - Terraform, CloudFormation
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b9b6b9e-e7c3-439e-9274-ff4eb7a7aa66" width="400">
+</p>
 
-📫 How to reach me: **barsagiv8@gmail.com**
+
+📫 How to reach me: barsagiv8@gmail.com  
+🗂️ Latest Project: [Serverless Data Processing Pipeline with Monitoring and Notifications](https://github.com/BarSagiv/AWS-Lambda-S3-Processing.git)
+🏆 Achievements: Scalable, cost-effective data transformation pipeline
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

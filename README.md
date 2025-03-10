@@ -11,6 +11,7 @@ My expertise:
 - Monitoring & logging (CloudWatch, SNS, Prometheus)
 - Bash, Python for automation
 - Terraform, CloudFormation
+- 🏆 Achievements: Scalable, cost-effective data transformation pipeline
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9b9b6b9e-e7c3-439e-9274-ff4eb7a7aa66" width="400">
@@ -18,9 +19,7 @@ My expertise:
 
 
 📫 How to reach me: barsagiv8@gmail.com  
-🗂️ Latest Project: [Serverless Data Processing Pipeline with Monitoring and Notifications](https://github.com/BarSagiv/AWS-Lambda-S3-Processing.git)
-🏆 Achievements: Scalable, cost-effective data transformation pipeline
-
+🗂️ Latest Project: [Serverless Data Processing Pipeline with Monitoring and Notifications](https://github.com/BarSagiv/AWS-Lambda-S3-Processing.git)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
